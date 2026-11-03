@@ -31,7 +31,7 @@
 
     <bigquery.version>v2-rev20211129-1.32.1</bigquery.version>
     <google-api-client.version>1.32.1</google-api-client.version>
-    <guava.version>31.0.1-jre</guava.version>
+    <guava.version>33.7.1-jre</guava.version>
     <hamcrest.version>2.1</hamcrest.version>
     <jackson.version>2.13.0</jackson.version>
     <joda.version>2.10.10</joda.version>
@@ -45,7 +45,7 @@
     <pubsub.version>v1-rev20211130-1.32.1</pubsub.version>
     <slf4j.version>1.7.30</slf4j.version>
     <spark.version>2.4.8</spark.version>
-    <hadoop.version>2.10.1</hadoop.version>
+    <hadoop.version>3.4.0</hadoop.version>
     <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
     <nemo.version>0.1</nemo.version>
     <flink.artifact.name>beam-runners-flink-1.13</flink.artifact.name>
